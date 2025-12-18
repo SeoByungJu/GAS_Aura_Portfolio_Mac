@@ -1,0 +1,45 @@
+# =========================
+# Unreal Engine
+# =========================
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# =========================
+# Unreal project files
+# =========================
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# =========================
+# Rider / IDE
+# =========================
+.idea/
+*.DotSettings.user
+.vscode/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs & temp
+# =========================
+*.log
+*.tmp
+
+# =========================
+# Platform-specific
+# =========================
+Platforms/*/Build/
+Platforms/*/Intermediate/
+
+# =========================
+# Crash / profiling
+# =========================
+crashinfo-*
