@@ -8,14 +8,7 @@ Saved/
 Build/
 
 # =========================
-# Unreal project files
-# =========================
-*.sln
-*.xcodeproj
-*.xcworkspace
-
-# =========================
-# Rider / IDE
+# IDE / Rider
 # =========================
 .idea/
 *.DotSettings.user
@@ -33,13 +26,6 @@ Thumbs.db
 *.log
 *.tmp
 
-# =========================
-# Platform-specific
-# =========================
-Platforms/*/Build/
-Platforms/*/Intermediate/
-
-# =========================
-# Crash / profiling
-# =========================
-crashinfo-*
+# IDE generated project files
+*.sln
+*.xcworkspace/
